@@ -1,6 +1,6 @@
 A responsive React application that allows users to browse products, view details, and create new product entries.
 
-Demo:  https://fluffy-cendol-688b74.netlify.app/
+Demo:  https://bostafrontend.netlify.app/
 
 
 -Data is fetched from FakeStoreAPI
